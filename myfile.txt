@@ -1,1 +1,4 @@
-thi is a change in main branch
+Hello, Git!
+this is my second line in git!
+THis line was added from GitHub
+This is a change in main branch
